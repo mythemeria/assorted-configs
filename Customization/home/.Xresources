@@ -1,0 +1,40 @@
+!! URxvt config
+! Black
+*color0: #232323
+*color8: #444444
+! Red
+*color1: #9b1442
+*color9: #c42762
+! Green
+*color2: #bce12c
+*color10: #d3e36d
+! Yellow
+*color3: #ffb926
+*color11: #ffd24c
+! Blue
+*color4: #6b8df8
+*color12: #8eacff
+! Magenta
+*color5: #aa43a6
+*color13: #c45feb
+! Cyan
+*color6: #78e3f1
+*color14: #a7fff0
+! White
+*color7: #f9f1fa
+*color15: #ffffff
+! Bold, Italic, Underline
+*colorBD: #9b1442
+
+																																																																									
+URxvt.font: xft:Inconsolata:size=12
+URxvt.title: Terminal
+URxvt.background: #070d19
+URxvt.foreground: #fb2e46
+URxvt.cursorColor: #ffffff
+Urxvt.cursorBlink: true
+URxvt.scrollBar: false
+URxvt*perl-ext-common: default,matcher,focus
+URxvt.url-launcher: /usr/bin/firefox-esr
+URxvt.matcher.button: 1
+URxvt.iconFile: /usr/share/icons/Numix-Circle-Light/48/apps/terminal.svg

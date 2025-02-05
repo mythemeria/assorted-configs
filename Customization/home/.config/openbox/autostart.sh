@@ -1,5 +1,5 @@
 # set background image
-feh --bg-fill /home/izi/Pictures/bg/bg.png
+feh --bg-fill /home/$USER/Pictures/bg/bg.png
 
 # start bottom panel
 lxpanel &
