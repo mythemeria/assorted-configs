@@ -92,7 +92,6 @@ fi
 
 # enable natural scrolling and click on tap
 cp ./xorg/30-touchpad.conf /etc/X11/xorg.conf.d/30-touchpad.conf
-cp ./xorg/41-touchpad.conf /etc/X11/xorg.conf.d/41-touchpad.conf
 
 # turn off fucking pc beep speaker
 rmmod pcspkr
